@@ -5,6 +5,7 @@
 ![CodeFactor](https://www.codefactor.io/repository/github/rlyonheart/reddit.autoreply.bot/badge)
 ![GitHub repo size](https://img.shields.io/github/repo-size/rlyonheart/reddit.autoreply.bot)
 ![Lines of code](https://img.shields.io/tokei/lines/github/rlyonheart/reddit.autoreply.bot)
+<a href="https://www.reddit.com/u/rly0nheart/"><img  alt="Reddit" src="https://img.shields.io/badge/Reddit-u/rly0nheart-orange?style=flat&logo=reddit"></a>
 ![Twitter](https://img.shields.io/twitter/follow/rly0nheart?&style=flat&logo=twitter)
 
 
